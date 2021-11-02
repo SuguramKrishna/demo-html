@@ -1,0 +1,17 @@
+body {
+  padding: 0%;
+  margin: 0%;
+  background-color: midnightblue;
+}
+
+.heading {
+  text-align: center;
+  margin-top: 200px;
+  color: wheat;
+}
+
+.heading span{
+    color: rgb(255, 208, 0);
+}
+
+
